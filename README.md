@@ -1,7 +1,7 @@
 # 📊 GL Retail Corporation – Financial Reporting Workflow
 Overview
 This project outlines a streamlined data processing pipeline for generating financial reports—specifically income statements and balance sheets—using Microsoft’s data tools. Designed for GL Retail Corporation, the workflow ensures accurate, scalable, and visually intuitive financial analysis.
-🔁 Workflow Steps
+## 🔁 Workflow Steps
 1. 	Extract Data from Database
 Tool: Azure Data Studio
 Purpose: Connect to the corporate financial database and retrieve raw transactional data.
